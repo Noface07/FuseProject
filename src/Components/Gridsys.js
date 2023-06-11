@@ -6,7 +6,7 @@ const Footer = () => {
       <Container>
         <Row>
           <Col md={8} className="text-center text-md-left">
-            <Image src="./images/Prod/la.jpg" fluid className="mb-3" alt="Large Image"  />
+            <Image src='./images/Prod/la.jpg' fluid className="mb-3" alt="Large Image"  />
           </Col>
           <Col md={4} className="text-center">
             <Row>
@@ -19,6 +19,16 @@ const Footer = () => {
             </Row>
           </Col>
         </Row>
+
+        <Row>
+        <Col>1 of 2</Col>
+        <Col>2 of 2</Col>
+      </Row>
+      <Row>
+        <Col>1 of 3</Col>
+        <Col>2 of 3</Col>
+        <Col>3 of 3</Col>
+      </Row>
       </Container>
   );
 };
