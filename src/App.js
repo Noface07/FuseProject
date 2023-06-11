@@ -9,6 +9,7 @@ import Navbar from "./Components/Navbar.js";
 import CarouselFadeExample from "./Components/Carousel";
 import Anim from "./Components/Anim";
 import Product from "./pages/Product"
+import Footerforpages from "./Components/Footerforpages"
 
 const App = () => {
   return (
@@ -17,7 +18,7 @@ const App = () => {
       <Navbar />
       <CarouselFadeExample />
       <Anim />
-      <Product />
+      <Footerforpages />
       </> 
 
   );
