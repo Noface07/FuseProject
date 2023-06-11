@@ -10,12 +10,12 @@ body {
     box-sizing: border-box;
 }
 
-.container {
+.containerss {
     max-width: 1170px;
     margin: auto;
 }
 
-.row {
+.rowss {
     display: flex;
     flex-wrap: wrap;
 }

@@ -4,8 +4,8 @@ import "./css/footerstyle.css"
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="container">
-        <div className="row">
+      <div className="containerss">
+        <div className="rowss">
           <div className="footer-col">
             <h4>Whether you’re a prospective client, interested in viewing the fused space gallery or simply a fan of our work, stop by and say hello!</h4>
           </div>

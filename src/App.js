@@ -10,6 +10,7 @@ import CarouselFadeExample from "./Components/Carousel";
 import Anim from "./Components/Anim";
 import Product from "./pages/Product"
 import Footerforpages from "./Components/Footerforpages"
+import Gridsys from "./Components/Gridsys.js"
 
 const App = () => {
   return (
@@ -17,7 +18,7 @@ const App = () => {
       <>
       <Navbar />
       <CarouselFadeExample />
-      <Anim />
+      <Gridsys />
       <Footerforpages />
       </> 
 
