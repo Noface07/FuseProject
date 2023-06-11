@@ -7,6 +7,8 @@ import Navbar from "./Components/Navbar.js";
 // import { Button, Dropdown, Space } from 'antd';
 // import Carousel from "./Components/Carousel";
 import CarouselFadeExample from "./Components/Carousel";
+import Anim from "./Components/Anim";
+import Product from "./pages/Product"
 
 const App = () => {
   return (
@@ -14,6 +16,8 @@ const App = () => {
       <>
       <Navbar />
       <CarouselFadeExample />
+      <Anim />
+      <Product />
       </> 
 
   );
