@@ -32,6 +32,8 @@ function HomeCarousel() {
           <Carousel.Item>        
         <img
           className="d-block w-100"
+          width="1920"
+          height="824.22"
           src={slide.image}
           alt="slider"
         />
